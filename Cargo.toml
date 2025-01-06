@@ -1,0 +1,11 @@
+[package]
+name = "dunedash"
+version = "0.1.0"
+edition = "2021"
+keywords = ["cli", "search", "demo"]
+readme = "README.md"
+description = "Simple cli tool for running ocaml code"
+
+[dependencies]
+notify = "7.0.0"
+termion = "4.0.3"
